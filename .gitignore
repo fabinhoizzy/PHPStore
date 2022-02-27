@@ -1,0 +1,3 @@
+/vendor/
+config.php
+/core/classes/EnviarEmail.php

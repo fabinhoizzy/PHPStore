@@ -1,0 +1,39 @@
+/* {
+    box-shadow: inset 0px 0px 1px rgba(255,0,0,1.0);
+}*/
+
+.navegacao {
+    background-color: rgb(68, 107, 235);
+    color: #000;
+}
+.titulo_nome {
+    text-decoration: none;
+    color: #fff;
+}
+.titulo_nome:hover {
+    text-decoration: none;
+    color: #fff;
+}
+.rodape {
+    background-color: rgb(30, 30, 32);
+    color: #fff;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: #fff;
+    margin: 0px 10px;
+}
+.nav-item:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+.espaco-fundo {
+    margin-bottom: 80px;
+}
+
+.box-produto {
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 5px;
+}

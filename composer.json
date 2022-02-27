@@ -1,0 +1,22 @@
+{
+    "name": "fabinhoizzy/php-store",
+    "description": "Loja online em PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+           "core\\" : "core/" 
+        },
+        "files": [
+            "config.php"
+        ]
+     },
+    "authors": [
+        {
+            "name": "fabinhoizzy",
+            "email": "fabinhoevil16@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
